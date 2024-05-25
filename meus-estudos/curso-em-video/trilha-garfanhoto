@@ -1,0 +1,73 @@
+A Trilha do Garfanhoto
+
+Aula 01 - Git e GitHub
+
+Git - Software de controle VCS
+GitHub - Plataforma de Redes Sociais para Programadores
+
+Versionamento "Um programador sempre lida com versões da mesma coisa"
+
+ (Criar uma forma de organização do meu GitHub)
+
+ 1972 - Primeiro Software de controle de Versionamento
+
+ commit - enviar dados para um repositório central
+
+ VCS Linear (Modelo anterior, o modelo anterior precisava estar conectado a um servidor)
+
+ VCS Distribuído
+
+ nesse caso o commit vai para um git(repositório local) e o push envia para o repositório remoto
+
+ principais vantagens 
+  - > Controle de Histórico
+  - > Trabalho em equipe
+  - > ramificação do projeto
+  - > Segurança
+  - > Organização
+
+ Aula 02 - GitHub
+
+    Vantagens
+
+    -> Repositórios Ilimitados
+    -> Hospedagem de código-fonte
+    -> Características de rede social
+    -> GitHub Pages intefrado
+    -> Colaboração
+    -> Forks
+
+Criando um Perfil
+
+ ****Pense em um projeto gratuito para compartilhar****
+mande uma mensagem para o Guanabara
+
+Atividade! - Criar meu Perfil, colocar mais informações
+
+Aula 03 - Evolução do Git e GitHub
+Git
+    Richard Stalmon
+    Linus Torvod - Criador do Git e do Kernel do Linux
+    Andrew Tridew - SourcePuller
+    BitKeeper - Software concorrente
+    Crack
+    Kernel - Estudar e estudar, Guanabara é foda
+
+GitHub
+Proprietário
+ProGit - Livro de indicação
+DDoS - Maior ataque de DDoS da História
+Microsoft é a dona do GitHub por 7.5 Bi
+Steve Palmer e Bill Gates
+Microsoft é dona da NPM
+octodex
+
+Aula 04
+
+SCM - Source Code Management outra forma de falar de um VCS
+
+--baixando o GitHub Desktop
+
+Aula 05 - Criando o Primeiro Repositório
+
+Aula 06 - Clonar Repositórios
