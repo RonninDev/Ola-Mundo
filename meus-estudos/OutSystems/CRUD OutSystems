@@ -1,0 +1,5 @@
+limpeza de dados 
+
+- Combine a ação "Only for demand" da configuração Fetch do Agreggate
+-  Dê um refresh agreggate em sua action relacionada com a limpeza
+-  exiba uma mensagem de sucesso antes do refresh 
