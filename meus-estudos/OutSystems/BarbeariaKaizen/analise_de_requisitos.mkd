@@ -1,0 +1,34 @@
+ANÁLISE DE REQUISITOS (BARBEARIA KAIZEN)
+
+Ciclo de Vida de um Desenvolvimento
+
+ 1. Análise de Requisitos
+ 2. Design (Arquitetura, Modelagem, Telas)
+ 3. Implementação
+ 4. Teste
+ 5. Evolução
+
+Requisito => Uma necessidade de um sistema, uma funcionalidade disponível
+
+"Software funcionando é mais importante que documentação extensiva"
+
+Epics
+
+Backoffice => Fonte de alimentação de dados da aplicação, sistema auxiliar a depender da necessidade
+Requisitos Não Funcionais => Performace, Segurança, Escalabilidade
+
+Histórias de Usuário => São as necessidades do usuarios do sistema
+
+Design
+
+1. Arquitetura
+    1.1 - Descobrir o Negócio (Usar Epics e Histórias de Usuário)
+2. Modelo de Dados
+    1.1 - Desenhar as entidades e relações das tabelas do Projeto
+3. Prototipagem com Mockups UX/UI
+    1.1 - 
+
+
+Mão na Massa
+
+
