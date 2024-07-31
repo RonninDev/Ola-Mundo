@@ -19,3 +19,11 @@ Aula 03 - Comandos de entrada e operadores
     - Comandos de entrada, inputs
     - Soma Básica de duas variáveis
     - Explicação dos Operadores Lógicos
+
+Aula 04 - Operadores Lógicos e Relacionais
+
+    Ordem de Precedência
+
+    Aritiméticos-> [(), ^, */, +-]
+    Relacionais -> [Todos]
+    Lógicos     -> [E, OU, NÃO]
